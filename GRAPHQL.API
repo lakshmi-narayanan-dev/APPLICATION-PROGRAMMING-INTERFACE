@@ -1,1 +1,15 @@
 GraphQL = Apollo & Relay Modern
+
+GraphQL
+Open source, data query & manipulation of API’s 
+Alternative of REST API
+Able to fetch exact data you needed to fetch from server
+Faster than REST 
+example -> Student 1 school fee for this year alone
+Client > Specific data to fetch request > GraphQL > Server > Respond to client
+Like POST & DELETE in REST, GraphQL has a mutation to update data.
+mutation {
+add project (key value)
+}
+GraphQL server has a scheme to specify all types of fields
+String = Alphabetic, Boolean = Yes or no, Float = Decimal Numbers, int = numbers.
