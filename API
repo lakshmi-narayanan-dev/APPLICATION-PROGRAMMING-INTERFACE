@@ -1,0 +1,25 @@
+Application Programming Interface = Act as a intermediate between server & client using internet
+Commonly used API is REST API = Representational State Transfer API
+Simple Request & response operation
+Example > Email > Receive OTP to proceed
+
+----------------------------------------------
+API Codes
+----------------------------------------------
+1XX = Informational
+2XX = Success
+3XX = Redirection
+4XX = Client Side Error[html css js files missing or relocated]
+5XX = Server Side Error
+
+-------------------
+Famous API Codes
+-------------------
+200 = Success OK
+500 = Internal server error
+400 = Bad request
+403 = Forbidden access [not having access to the file]
+401 = Unauthorized = Credentials are incorrect
+404 = page itself not found
+415 = unsupported media format used
+429 = too many request [majority in government sites]
